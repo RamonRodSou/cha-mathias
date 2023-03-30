@@ -1,0 +1,19 @@
+.copyright {
+
+    background-color: rgba(17, 196, 11, 0.479);
+    box-shadow: 20px  20px 20px 20px #0a25077c;
+
+    text-align: center;
+
+    color: #ffffffb6;
+    padding: 1rem; 
+}
+
+@media screen and (max-width:400px) {
+
+    .copyright {
+        text-align-last: center;
+        margin: 2rem 0;
+        padding: 1.5rem; 
+    }
+}

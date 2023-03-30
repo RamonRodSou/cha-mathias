@@ -1,0 +1,13 @@
+.menu__principal {
+    background-color: rgba(15, 41, 3, 0.171);
+    padding: 1rem;
+    box-shadow: 0px  20px 20px #0a25077c;
+
+}
+
+@media screen and (max-width:400px) {
+
+    .menu__principal{
+
+    }
+}
